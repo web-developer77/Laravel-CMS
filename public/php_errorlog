@@ -1,0 +1,1 @@
+[05-Mar-2019 23:12:30 CST6CDT] PHP Fatal error:  require_once(): Failed opening required '/home/metroengine01/crmbackend_forster/bootstrap/../vendor/autoload.php' (include_path='.:/usr/local/php71/pear') in /home/metroengine01/crmbackend_forster/bootstrap/app.php on line 4
